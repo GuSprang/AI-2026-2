@@ -4,7 +4,7 @@ Repositório criado para armazenar os exercícios de Python da disciplina de IA.
 
 ## Arquivos
 
-- **Exercícios_Python_GustavoSprangoski6A.ipynb** — notebook do Google Colab com todos os exercícios resolvidos e comentados
+- **Exercícios_Python_GustavoSprangoski6A.ipynb** — notebook do Google Colab e Kaggle com todos os exercícios resolvidos e comentados
 
 ## Sobre os exercícios
 
